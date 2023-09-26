@@ -1,0 +1,11 @@
+.quoteContainer{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:40rem;
+    height:16rem;
+    background:white;
+    border:1px solid black;
+    flex-direction: column;
+    border-radius: 20px;
+}
