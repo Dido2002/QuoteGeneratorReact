@@ -1,0 +1,31 @@
+.quote-generator{
+    height:100vh;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+    background-color: #555;
+}
+.btn-generator{
+    padding:8px 20px;
+    border:2px solid white;
+    background-color: orange;
+    color:white;
+    border-radius: 20px;
+    font-size:1.8rem;
+    cursor:pointer;
+    transition: ease ease-in-out;
+}
+.btn-generator:hover{
+    background-color: white;
+    color:orange;
+}   
+.header-generator{
+    font-size:3rem;
+    color:white;
+
+}
+.generator-component{
+    padding-top:4rem;
+}
